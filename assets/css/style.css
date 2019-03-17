@@ -1,0 +1,34 @@
+/* Select all spans that are immediate children of buttons */
+
+
+button {
+    display: inline-block;
+    height: 134px;
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+    width: 104px;
+}
+
+#c1 img {
+    display: block;
+    height: 130px;  
+    width: 100px;
+}
+
+#c2 img {
+    display: block;
+    height: 130px;  
+    width: 100px;
+}
+#c3 img {
+    display: block;
+    height: 130px;  
+    width: 100px;
+}
+
+#c4 img {
+    display: block;
+    height: 130px;  
+    width: 100px;
+}
